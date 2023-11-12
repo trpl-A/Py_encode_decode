@@ -4,9 +4,9 @@
 - Started:      xx.yy.23
 - Updated:      12.11.23
 - Status:
-    * work-in-progress
-    * connected to git?
-    * connected to github?
+    * COMPLETE
+    * connected to git?     yes
+    * connected to github?  yes
 ---
 
 ## More notes
