@@ -1,0 +1,24 @@
+https://www.youtube.com/watch?v=gvqbIeGI8IE
+https://www.youtube.com/watch?v=ECHpJueKN7c
+https://blog.mystart.com/wp-content/uploads/shutterstock_352176329-e1527775515405.jpg
+https://www.youtube.com/watch?v=15Mcob5_tyU
+https://www.youtube.com/watch?v=kQjhSXu2tqA
+
+for student server, create whatsapp group with code to redirect you to the student server website
+
+dot code 
+
+ # entry = "https://www.youtube.com/watch?v=I2O7blSSzpI"
+    # entry = "youtube.com/watch?v=I2O7blSSzpI"
+
+" - the text file has to be in the same directory as this program")
+print(" - don't include the file extension when entering the file name \n")
+
+
+  # from https://stackoverflow.com/questions/8282553/removing-character-in-list-of-strings
+        # print([s.strip('\n') for s in g])
+
+
+ # from https://www.codegrepper.com/code-examples/python/binary+to+text+python
+            # "".join([chr(int(binary, 2)) for binary in a_binary_string.split(" ")])
+            
